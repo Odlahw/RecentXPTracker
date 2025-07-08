@@ -5,3 +5,4 @@ Toggle to not display after every kill in chat by using /xpcheck off
 Toggle back on to display after every kill /xpcheck on
 Can create a macro to use /xpcheck to just have it toggled off and a button to hit when you maybe didnt see or are just curious.
 Enjoy
+
